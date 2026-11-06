@@ -1,1 +1,1 @@
-# sf-Thumb
+# SceneFinder-thumbs
